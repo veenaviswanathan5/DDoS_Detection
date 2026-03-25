@@ -1,0 +1,2 @@
+Algorithm,Accuracy (%),Precision (%),Recall (%),F1 Score (%),Train Time (s),Pred Time (s)
+Decision Tree,89.44,89.44,89.44,89.44,1.1318,0.0108
